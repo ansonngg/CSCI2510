@@ -1,2 +1,2 @@
 # CSCI2510
-Computer Organization
+Saves all assignments of CSCI2510 Computer Organization
