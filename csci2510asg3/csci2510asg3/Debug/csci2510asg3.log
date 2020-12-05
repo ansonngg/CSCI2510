@@ -1,0 +1,3 @@
+﻿  Assembling set_associative_ex2.asm...
+legacy_stdio_wide_specifiers.lib(legacy_stdio_wide_specifiers.obj) : warning LNK4210: .CRT section exists; there may be unhandled static initializers or terminators
+  csci2510asg3.vcxproj -> C:\Users\tkure\source\repos\csci2510asg3\Debug\csci2510asg3.exe
